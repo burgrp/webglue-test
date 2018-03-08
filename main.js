@@ -1,0 +1,1 @@
+require("@device.farm/appglue")({require}).start().catch(console.error);
