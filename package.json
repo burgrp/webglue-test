@@ -2,7 +2,7 @@
   "name": "webglue-test",
   "version": "1.0.0",
   "dependencies": {
-    "@device.farm/appglue": "../appglue",
-    "@device.farm/webglue": "../webglue"
+    "@device.farm/appglue": "1.0.7",
+    "@device.farm/webglue": "1.0.1"
   }
 }
