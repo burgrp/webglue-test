@@ -1,6 +1,6 @@
 {
     "module": "@device.farm/webglue",
-    "applications": [
+    "modules": [
         {
             "module": "./chat.js"
         }
